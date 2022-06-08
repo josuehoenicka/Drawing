@@ -12,4 +12,4 @@ Desenhando algumas bandeiras com a sintaxe do Racket
 
 <b>GERMAN</b>
 
-Zeichnen einiger Flaggen mit Racket-Syntax
+Zeichnen einiger Flaggen mit Racket Syntax
