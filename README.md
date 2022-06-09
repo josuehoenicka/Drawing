@@ -1,3 +1,5 @@
+<img src="/img/cap-racket.png" alt="racket flags countries josue hoenicka">
+
 <b>ENGLISH</b>
 
 Drawing some flags with racket syntax
